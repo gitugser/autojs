@@ -1,4 +1,7 @@
 # Auto.js
+## remove ads
+  https://github.com/hyb1996/Auto.js/commit/46cd89d5a507e11a07be56a76d0587799b260248
+  https://github.com/hyb1996/Auto.js/commit/c6e31dcb4167d26ac5ca002f896975143d349e2c
 ## 简介
 一个主要由无障碍服务实现的**不需要Root权限**的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。
 
